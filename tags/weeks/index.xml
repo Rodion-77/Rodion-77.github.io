@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/weeks/</link>
+      <atom:link href="http://localhost:1313/tags/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/tags/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Пост по неделе с 18 по 25 марта</title>
+      <link>http://localhost:1313/post/third-week/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/third-week/</guid>
+      <description>&lt;h2 id=&#34;начало-недели&#34;&gt;Начало недели&lt;/h2&gt;
+&lt;p&gt;Все начало недели я провел в активной подготовке к контрольной работе по математическому анализу, так как материал очень обширный и нужно было выучить много теории.&lt;/p&gt;
+&lt;h2 id=&#34;выступление-на-английском-языке&#34;&gt;Выступление на английском языке&lt;/h2&gt;
+&lt;p&gt;На этой неделе в пятницу у нас прошло выступление перед преподавателями, мы спели песню на английском языке и станцевали чудесный танец. Все прошло на высшем уровне.&lt;/p&gt;
+&lt;h2 id=&#34;выходные&#34;&gt;Выходные&lt;/h2&gt;
+&lt;p&gt;Выходные прошли достаточно скучно. В субботу я весь день готовился к учебной недел и вечером вышел на прогулку с другом. В воскресменье высыпался после тяжелой неделе и изучал книжку по программированию&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
